@@ -780,4 +780,4 @@ print(model_fit.summary())
 
 ---
 
-#### [Project Assessment](https://github.com/seby-sbirna/Data-Analyst-Nanodegree/blob/master/Project%203%20-%20Analyze%20AB%20Test%20Results/Project%203%20-%20Assessment%20and%20Review.pdf)
+### [Project Assessment](https://github.com/seby-sbirna/Data-Analyst-Nanodegree/blob/master/Project%203%20-%20Analyze%20AB%20Test%20Results/Project%203%20-%20Assessment%20and%20Review.pdf)
