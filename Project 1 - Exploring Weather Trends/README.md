@@ -28,4 +28,4 @@ There are more observations that could be done from this graph, and the trends p
 
 ---
 
-[Project Assessment](https://github.com/seby-sbirna/Data-Analyst-Nanodegree/blob/master/Project%201%20-%20Exploring%20Weather%20Trends/Project%201%20-%20Assessment%20and%20Review.pdf)
+#### [Project Assessment](https://github.com/seby-sbirna/Data-Analyst-Nanodegree/blob/master/Project%201%20-%20Exploring%20Weather%20Trends/Project%201%20-%20Assessment%20and%20Review.pdf)
