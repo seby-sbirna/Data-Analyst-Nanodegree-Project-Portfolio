@@ -12,7 +12,7 @@
     - [Data Assessing Process](#data-assessing)
     - [Data Cleaning Process](#data-cleaning)
     - [Data Storing](#data-storing)
-- [Analysis and Visualisation of Data](#data-analysis)
+- [Analysis and Visualization of Data](#data-analysis)
     - [Visualization 1](#viz-1)
     - [Visualization 2](#viz-2)
     - [Visualization 3](#viz-3)
