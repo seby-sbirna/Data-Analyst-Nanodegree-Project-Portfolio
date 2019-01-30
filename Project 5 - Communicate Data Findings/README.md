@@ -3473,3 +3473,7 @@ Lastly, we will restate our three questions of interest, along with a summary of
     
 * **_Do students whose parents have different cultural backgrounds report any changes in average scores, compared with students raised in a homogenous family background?_**
     * _We have discovered that students whose parents are from two different cultural backgrounds report, on average, slightly higher performance (scores) in all three measured subjects._
+
+---
+
+### [Project Assessment](https://github.com/seby-sbirna/Data-Analyst-Nanodegree/blob/master/Project%205%20-%20Communicate%20Data%20Findings/Project%205%20-%20Assessment%20and%20Review.pdf)
