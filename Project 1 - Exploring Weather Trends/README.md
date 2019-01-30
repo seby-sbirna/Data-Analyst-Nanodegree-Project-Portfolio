@@ -25,3 +25,7 @@ From this line chart, we can see the following trends and observations:
 -   While the global weather trend has been a smooth increase in temperature ever since 1904 (*with some downfall and stagnation between 1942 and 1968*), Copenhagen's average temperature is much more uneven, with constant upturns and downfalls every 10-15 years. This is most likely due to the fact that the global temperature is calculated by taking the average of many major cities around the world, which smoothens out the average data greatly, while Copenhagen's average comes only from one city's data: itself.
 
 There are more observations that could be done from this graph, and the trends presented above have been some of the patterns that could be found from analyzing the moving average value differences between global and local average temperature data.
+
+---
+
+[Project Assessment](https://github.com/seby-sbirna/Data-Analyst-Nanodegree/blob/master/Project%201%20-%20Exploring%20Weather%20Trends/Project%201%20-%20Assessment%20and%20Review.pdf)
