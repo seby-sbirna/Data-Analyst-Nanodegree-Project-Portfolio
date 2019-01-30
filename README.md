@@ -1,5 +1,4 @@
-# Data Analyst Nanodegree:
-## Project Portfolio
+# Data Analyst Nanodegree - _Project Portfolio_
 
 A collection of all the module projects analyzed during the [Data Analyst Nanodegree](https://udacity.com/course/data-analyst-nanodegree--nd002) - Udacity:
 
