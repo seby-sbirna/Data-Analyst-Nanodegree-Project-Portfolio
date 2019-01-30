@@ -1,5 +1,7 @@
-# Data Analyst Nanodegree: Project Portfolio
-A collection of all the module projects analyzed during the [Data Analyst Nanodegree](https://udacity.com/course/data-analyst-nanodegree--nd002) from Udacity:
+# Data Analyst Nanodegree:
+## Project Portfolio
+
+A collection of all the module projects analyzed during the [Data Analyst Nanodegree](https://udacity.com/course/data-analyst-nanodegree--nd002) - Udacity:
 
 ### Project 1: Exploration of weather trends over time: World vs. Denmark
 
