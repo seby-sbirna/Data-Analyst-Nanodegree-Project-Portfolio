@@ -8,7 +8,7 @@ A collection of all the module projects analyzed during the [Data Analyst Nanode
 
 This project demonstrates several found trends in the fluctuations of the average weather temperature of the world in the time interval between the years 1750 to 2013, compared with the local yearly average temperature in Copenhagen, Denmark, where I am currently living in.
 
-[Project: Exploration of weather trends over time: World vs. Denmark](https://github.com/seby-sbirna/Data-Analyst-Nanodegree/tree/master/Project%201%20-%20Exploring%20Weather%20Trends)
+**_[Project: Exploration of weather trends over time: World vs. Denmark](https://github.com/seby-sbirna/Data-Analyst-Nanodegree/tree/master/Project%201%20-%20Exploring%20Weather%20Trends)_**
 
 ---
 
@@ -28,7 +28,7 @@ After completing the project, I developed my skills in:
 - Being familiar with pandas' Series and DataFrame objects, which lets us access data more conveniently
 - Knowing how to use Matplotlib to produce plots showing my findings
 
-[Project: Investigating medical appointment patient arrival factors in Brazil](https://github.com/seby-sbirna/Data-Analyst-Nanodegree/tree/master/Project%202%20-%20Investigate%20a%20Dataset)
+#### _[Project: Investigating medical appointment patient arrival factors in Brazil](https://github.com/seby-sbirna/Data-Analyst-Nanodegree/tree/master/Project%202%20-%20Investigate%20a%20Dataset)_
 
 ---
 
@@ -45,7 +45,7 @@ After completing the project, I understood how to handle:
 - Applying inferential statistics and probability to important, real-world scenarios
 - Builiding supervised learning models
 
-[Project: Analyze A/B Test Results](https://github.com/seby-sbirna/Data-Analyst-Nanodegree/tree/master/Project%203%20-%20Analyze%20AB%20Test%20Results)
+#### _[Project: Analyze A/B Test Results](https://github.com/seby-sbirna/Data-Analyst-Nanodegree/tree/master/Project%203%20-%20Analyze%20AB%20Test%20Results)_
 
 ---
 
@@ -69,7 +69,7 @@ After completing the project, I understood the entire processes of:
     - my data wrangling steps and efforts 
     - my data analyses and visualizations
 
-[Project: Data Wrangling and Analysis of Twitter-based content](https://github.com/seby-sbirna/Data-Analyst-Nanodegree/tree/master/Project%204%20-%20Wrangle%20and%20Analyze%20Data)
+#### _[Project: Data Wrangling and Analysis of Twitter-based content](https://github.com/seby-sbirna/Data-Analyst-Nanodegree/tree/master/Project%204%20-%20Wrangle%20and%20Analyze%20Data)_
 
 ---
 
@@ -93,4 +93,4 @@ After completing this project, I gained skills in:
 - Choosing appropriate plots, limits, transformations, and aesthetics to explore a dataset, allowing people to understand distributions of variables and relationships between features
 - Using design principles to create effective visualizations for communicating findings to an audience
    
-[Project: Data Exploration of the performance of globally-selected 15/16-year-old students in Mathematics, Reading and Science Literacy, based on the results of the PISA 2012 test](https://github.com/seby-sbirna/Data-Analyst-Nanodegree/blob/master/Project%205%20-%20Communicate%20Data%20Findings/README.md)
+#### _[Project: Data Exploration of the performance of globally-selected 15/16-year-old students in Mathematics, Reading and Science Literacy, based on the results of the PISA 2012 test](https://github.com/seby-sbirna/Data-Analyst-Nanodegree/blob/master/Project%205%20-%20Communicate%20Data%20Findings/README.md)_
