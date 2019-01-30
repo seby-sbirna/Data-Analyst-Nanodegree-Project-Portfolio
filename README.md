@@ -47,3 +47,18 @@ WeRateDogs downloaded their Twitter archive for Udacity students exclusively to 
 
 ---
 
+### Project 5: Data Exploration of the performance of globally-selected 15/16-year-old students in Mathematics, Reading and Science Literacy, based on the results of the PISA 2012 test
+
+PISA is a survey of students' skills and knowledge as they approach the end of compulsory education. It is not a conventional school test. Rather than examining how well students have learned the school curriculum, it looks at how well prepared they are for life beyond school.
+
+Around 510,000 students in 65 economies took part in the PISA 2012 assessment of reading, mathematics and science representing about 28 million 15-year-olds globally. Of those economies, 44 took part in an assessment of creative problem solving and 18 in an assessment of financial literacy.
+
+*After looking throughout the Dataset Dictionary to find out what each of these columns represents, a number of leads to be explored have been considered:*
+
+1. _We are interested in finding out how students from individual countries perform in Math, Reading and Science literacy._
+    
+2. _Considering that we can see the countries' average literacy patters in different subjects, we are also curious about from which countries do the "geniuses" stem, meaning which countries have students with exceptionally high literacy scores._
+    
+3. _Lastly, we would like to find out whether students whose parents have different cultural backgrounds will report any changes in average scores, compared with students raised in a homogenous family background._
+   
+- [Project: Data Exploration of the performance of globally-selected 15/16-year-old students in Mathematics, Reading and Science Literacy, based on the results of the PISA 2012 test](https://github.com/seby-sbirna/Data-Analyst-Nanodegree/blob/master/Project%205%20-%20Communicate%20Data%20Findings/README.md)
