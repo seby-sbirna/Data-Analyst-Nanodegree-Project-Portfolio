@@ -96,3 +96,5 @@ After completing this project, I gained skills in:
 #### _[Project: Data Exploration of the performance of globally-selected 15/16-year-old students in Mathematics, Reading and Science Literacy, based on the results of the PISA 2012 test](https://github.com/seby-sbirna/Data-Analyst-Nanodegree/blob/master/Project%205%20-%20Communicate%20Data%20Findings/README.md)_
 
 ---
+
+![Udacity Data Analyst Nanodegree](Udacity_Data_Analyst_Certificate.png)
