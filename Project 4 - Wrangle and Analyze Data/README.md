@@ -1,5 +1,5 @@
 
-# Project: Data Wrangling and Analysis of Twitter-based content <br> (Udacity - exclusive case study: WeRateDogs archive)
+# Project: Data Wrangling and Analysis of Twitter-based content (Udacity - exclusive case study: WeRateDogs archive)
 
 ### **_by Sebastian Sbirna_**
 
@@ -2329,3 +2329,7 @@ _We have analysed a dataset recollecting dog ratings from the famous Twitter rev
 - _At the end of data cleaning, the result was more easily-processable and error-free datasets. Considering this, it is helpful to store these modified datasets locally, so that their processing does not need to be reiterated. The datasets were stored both in CSV formats and in a SQL database as tables._
 
 _Lastly, analysis has been performed upon the cleaned datasets, and we were able to discover which ratings were most frequently given to the dogs in our dataset, what the distribution of dog types was over our dataset, and figure out the winners of popularity in terms of retweet counts and favorite counts._
+
+---
+
+### [Project Assessment](https://github.com/seby-sbirna/Data-Analyst-Nanodegree/blob/master/Project%204%20-%20Wrangle%20and%20Analyze%20Data/Project%204%20-%20Assessment%20and%20Review.pdf)
