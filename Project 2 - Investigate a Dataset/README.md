@@ -1721,3 +1721,7 @@ Lastly, we will restate our three research questions of interest, along with a s
   * Almost all neighbourhoods (_with few exceptions_) have patient arrival ratios close to the mean country-wide values of _80%/20%_ (_arriving/absent patients_).
 
 As according to the scope and manner of the project criteria, these results have been found through scrutinous data exploration and basic statistical measurements, however consolidating the degree of certainty for these descriptions would benefit from more detailed statistical reinforcement.
+
+---
+
+#### [Project Assessment](https://github.com/seby-sbirna/Data-Analyst-Nanodegree/blob/master/Project%202%20-%20Investigate%20a%20Dataset/Project%202%20-%20Assessment%20and%20Review.pdf)
