@@ -777,3 +777,7 @@ print(model_fit.summary())
 * **_demographic distribution of users also is statistically unlikely to influence user conversion rate for the e-commerce company;_**
 
 **_Overall, we have noticed neither statistical nor practical significance in the company launching the new page version._**
+
+---
+
+#### [Project Assessment](https://github.com/seby-sbirna/Data-Analyst-Nanodegree/blob/master/Project%203%20-%20Analyze%20AB%20Test%20Results/Project%203%20-%20Assessment%20and%20Review.pdf)
