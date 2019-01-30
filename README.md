@@ -34,3 +34,16 @@ This project will analyze the statistical likelihood of increasing conversion ra
 
 ---
 
+### Project 4: Data Wrangling and Analysis of Twitter-based content 
+#### (Udacity-exclusive case study: WeRateDogs archive)
+
+Real-world data rarely comes clean. Using Python and its libraries, we gather data from a variety of sources and in a variety of formats, assess its quality and tidiness, then clean it; a process also known as data wrangling.
+
+The dataset that we will be wrangling (and analyzing and visualizing) is the tweet archive of Twitter user [@dog_rates](https://twitter.com/dog_rates), also known as [WeRateDogs](https://twitter.com/dog_rates). WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10. The numerators, though? Almost always greater than 10. 11/10, 12/10, 13/10, etc. Why? Because ["they're good dogs Brent"](https://knowyourmeme.com/memes/theyre-good-dogs-brent). WeRateDogs has over 7.5 million followers and has received international media coverage.
+
+WeRateDogs downloaded their Twitter archive for Udacity students exclusively to use in this project. This archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1, 2017.
+
+- [Project: Data Wrangling and Analysis of Twitter-based content](https://github.com/seby-sbirna/Data-Analyst-Nanodegree/tree/master/Project%204%20-%20Wrangle%20and%20Analyze%20Data)
+
+---
+
