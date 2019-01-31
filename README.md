@@ -32,7 +32,7 @@ After completing the project, I developed my skills in:
 
 ---
 
-### Project 3: Analyze A/B Test Results
+### Project 3: Analysis of A/B Test Results
 
 A/B tests are very commonly performed by data analysts and data scientists to test changes on a web page by running an experiment where a control group sees the old version, while the experiment group sees the new version. A metric (in our case, the "converted" rate) is then chosen to measure the level of engagement from users in each group. These results are then used to judge whether one version is more effective than the other.
 
@@ -45,7 +45,7 @@ After completing the project, I understood how to handle:
 - Applying inferential statistics and probability to important, real-world scenarios
 - Builiding supervised learning models
 
-#### _[Project: Analyze A/B Test Results](https://github.com/seby-sbirna/Data-Analyst-Nanodegree/tree/master/Project%203%20-%20Analyze%20AB%20Test%20Results)_
+#### _[Project: Analysis of A/B Test Results](https://github.com/seby-sbirna/Data-Analyst-Nanodegree/tree/master/Project%203%20-%20Analyze%20AB%20Test%20Results)_
 
 ---
 
