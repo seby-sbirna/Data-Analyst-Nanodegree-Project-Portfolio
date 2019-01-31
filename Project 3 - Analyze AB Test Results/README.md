@@ -1,5 +1,5 @@
 
-## Project: Analyze A/B Test Results
+## Project: Analysis of A/B Test Results
 
 **_By Sebastian Sbirna_**
 
