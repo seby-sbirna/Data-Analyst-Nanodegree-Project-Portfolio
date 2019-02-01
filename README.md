@@ -4,48 +4,27 @@ A collection of all the module projects analyzed during the [Data Analyst Nanode
 
 ---
 
-### Project 1: Exploration of weather trends over time: World vs. Denmark
+### Project 5: Data Exploration of the performance of globally-selected 15/16-year-old students in Mathematics, Reading and Science Literacy, based on the results of the PISA 2012 test
 
-This project demonstrates several found trends in the fluctuations of the average weather temperature of the world in the time interval between the years 1750 to 2013, compared with the local yearly average temperature in Copenhagen, Denmark, where I am currently living in.
+PISA is a survey of students' skills and knowledge as they approach the end of compulsory education. It is not a conventional school test. Rather than examining how well students have learned the school curriculum, it looks at how well prepared they are for life beyond school.
 
-#### _[Project: Exploration of weather trends over time: World vs. Denmark](https://github.com/seby-sbirna/Data-Analyst-Nanodegree/tree/master/Project%201%20-%20Exploring%20Weather%20Trends)_
+Around 510,000 students in 65 economies took part in the PISA 2012 assessment of reading, mathematics and science representing about 28 million 15-year-olds globally. Of those economies, 44 took part in an assessment of creative problem solving and 18 in an assessment of financial literacy.
 
----
+*After looking throughout the Dataset Dictionary to find out what each of these columns represents, a number of leads to be explored have been considered:*
 
-### Project 2: Investigating medical appointment patient arrival factors in Brazil
+1. _We are interested in finding out how students from individual countries perform in Math, Reading and Science literacy._
+    
+2. _Considering that we can see the countries' average literacy patters in different subjects, we are also curious about from which countries do the "geniuses" stem, meaning which countries have students with exceptionally high literacy scores._
+    
+3. _Lastly, we would like to find out whether students whose parents have different cultural backgrounds will report any changes in average scores, compared with students raised in a homogenous family background._
 
-As medical clinics all over the world have experienced, patient arrival at their scheduled appointments is not guaranteed. Moreover, it seems hard for the medical personnel to explain what are the reasons behind such behaviour.
+After completing this project, I gained skills in:
 
-This data analysis project aims to describe some possible factors behind patient absence from scheduled appointments in Brazil, using descriptive statistics upon a dataset of 100.000+ medical appointments collected from various medical clinics in Brazil's many neighbourhoods.
-
-After completing the project, I developed my skills in:
-
-- Knowing all the steps involved in a typical data analysis process
-- Posing questions that can be answered with a given dataset and then answering those questions
-- Knowing how to investigate problems in a dataset and wrangle the data into a usable format
-- Having practice communicating the results of my analysis
-- Being able to use vectorized operations in NumPy and pandas to speed up my data analysis code.
-- Being familiar with pandas' Series and DataFrame objects, which lets us access data more conveniently
-- Knowing how to use Matplotlib to produce plots showing my findings
-
-#### _[Project: Investigating medical appointment patient arrival factors in Brazil](https://github.com/seby-sbirna/Data-Analyst-Nanodegree/tree/master/Project%202%20-%20Investigate%20a%20Dataset)_
-
----
-
-### Project 3: Analysis of A/B Test Results
-
-A/B tests are very commonly performed by data analysts and data scientists to test changes on a web page by running an experiment where a control group sees the old version, while the experiment group sees the new version. A metric (in our case, the "converted" rate) is then chosen to measure the level of engagement from users in each group. These results are then used to judge whether one version is more effective than the other.
-
-An e-commerce company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. Through this notebook, the company's decision will be tested to let the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
-
-This project will analyze the statistical likelihood of increasing conversion rates due to a newer version of the landing page, and will consolidate and validate its results by demonstrating the same statistical effects using three statistical methods: probability, hypothesis testing, and, lastly, logistic regression.
-
-After completing the project, I understood how to handle:
-
-- Applying inferential statistics and probability to important, real-world scenarios
-- Builiding supervised learning models
-
-#### _[Project: Analysis of A/B Test Results](https://github.com/seby-sbirna/Data-Analyst-Nanodegree/tree/master/Project%203%20-%20Analyze%20AB%20Test%20Results)_
+- Supplementing statistics with visualizations to create an understanding of data
+- Choosing appropriate plots, limits, transformations, and aesthetics to explore a dataset, allowing people to understand distributions of variables and relationships between features
+- Using design principles to create effective visualizations for communicating findings to an audience
+   
+#### _[Project: Data Exploration of the performance of globally-selected 15/16-year-old students in Mathematics, Reading and Science Literacy, based on the results of the PISA 2012 test](https://github.com/seby-sbirna/Data-Analyst-Nanodegree/blob/master/Project%205%20-%20Communicate%20Data%20Findings/README.md)_
 
 ---
 
@@ -73,27 +52,48 @@ After completing the project, I understood the entire processes of:
 
 ---
 
-### Project 5: Data Exploration of the performance of globally-selected 15/16-year-old students in Mathematics, Reading and Science Literacy, based on the results of the PISA 2012 test
+### Project 3: Analysis of A/B Test Results
 
-PISA is a survey of students' skills and knowledge as they approach the end of compulsory education. It is not a conventional school test. Rather than examining how well students have learned the school curriculum, it looks at how well prepared they are for life beyond school.
+A/B tests are very commonly performed by data analysts and data scientists to test changes on a web page by running an experiment where a control group sees the old version, while the experiment group sees the new version. A metric (in our case, the "converted" rate) is then chosen to measure the level of engagement from users in each group. These results are then used to judge whether one version is more effective than the other.
 
-Around 510,000 students in 65 economies took part in the PISA 2012 assessment of reading, mathematics and science representing about 28 million 15-year-olds globally. Of those economies, 44 took part in an assessment of creative problem solving and 18 in an assessment of financial literacy.
+An e-commerce company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. Through this notebook, the company's decision will be tested to let the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
-*After looking throughout the Dataset Dictionary to find out what each of these columns represents, a number of leads to be explored have been considered:*
+This project will analyze the statistical likelihood of increasing conversion rates due to a newer version of the landing page, and will consolidate and validate its results by demonstrating the same statistical effects using three statistical methods: probability, hypothesis testing, and, lastly, logistic regression.
 
-1. _We are interested in finding out how students from individual countries perform in Math, Reading and Science literacy._
-    
-2. _Considering that we can see the countries' average literacy patters in different subjects, we are also curious about from which countries do the "geniuses" stem, meaning which countries have students with exceptionally high literacy scores._
-    
-3. _Lastly, we would like to find out whether students whose parents have different cultural backgrounds will report any changes in average scores, compared with students raised in a homogenous family background._
+After completing the project, I understood how to handle:
 
-After completing this project, I gained skills in:
+- Applying inferential statistics and probability to important, real-world scenarios
+- Builiding supervised learning models
 
-- Supplementing statistics with visualizations to create an understanding of data
-- Choosing appropriate plots, limits, transformations, and aesthetics to explore a dataset, allowing people to understand distributions of variables and relationships between features
-- Using design principles to create effective visualizations for communicating findings to an audience
-   
-#### _[Project: Data Exploration of the performance of globally-selected 15/16-year-old students in Mathematics, Reading and Science Literacy, based on the results of the PISA 2012 test](https://github.com/seby-sbirna/Data-Analyst-Nanodegree/blob/master/Project%205%20-%20Communicate%20Data%20Findings/README.md)_
+#### _[Project: Analysis of A/B Test Results](https://github.com/seby-sbirna/Data-Analyst-Nanodegree/tree/master/Project%203%20-%20Analyze%20AB%20Test%20Results)_
+
+---
+
+### Project 2: Investigating medical appointment patient arrival factors in Brazil
+
+As medical clinics all over the world have experienced, patient arrival at their scheduled appointments is not guaranteed. Moreover, it seems hard for the medical personnel to explain what are the reasons behind such behaviour.
+
+This data analysis project aims to describe some possible factors behind patient absence from scheduled appointments in Brazil, using descriptive statistics upon a dataset of 100.000+ medical appointments collected from various medical clinics in Brazil's many neighbourhoods.
+
+After completing the project, I developed my skills in:
+
+- Knowing all the steps involved in a typical data analysis process
+- Posing questions that can be answered with a given dataset and then answering those questions
+- Knowing how to investigate problems in a dataset and wrangle the data into a usable format
+- Having practice communicating the results of my analysis
+- Being able to use vectorized operations in NumPy and pandas to speed up my data analysis code.
+- Being familiar with pandas' Series and DataFrame objects, which lets us access data more conveniently
+- Knowing how to use Matplotlib to produce plots showing my findings
+
+#### _[Project: Investigating medical appointment patient arrival factors in Brazil](https://github.com/seby-sbirna/Data-Analyst-Nanodegree/tree/master/Project%202%20-%20Investigate%20a%20Dataset)_
+
+---
+
+### Project 1: Exploration of weather trends over time: World vs. Denmark
+
+This project demonstrates several found trends in the fluctuations of the average weather temperature of the world in the time interval between the years 1750 to 2013, compared with the local yearly average temperature in Copenhagen, Denmark, where I am currently living in.
+
+#### _[Project: Exploration of weather trends over time: World vs. Denmark](https://github.com/seby-sbirna/Data-Analyst-Nanodegree/tree/master/Project%201%20-%20Exploring%20Weather%20Trends)_
 
 ---
 
